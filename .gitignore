@@ -1,0 +1,18 @@
+# Ignore source content & configs
+content/
+config/
+assets/
+archetypes/
+data/
+i18n/
+layouts/
+static/
+themes/
+hugo.toml
+.gitmodules
+
+# Ignore any build locks or local files
+.hugo_build.lock
+
+# Optionally ignore GitHub Actions workflows 
+.github/

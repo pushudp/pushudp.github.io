@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Example on Push UDP</title>
+    <link>http://localhost:54464/tags/example/</link>
+    <description>Recent content in Example on Push UDP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Push UDP</copyright>
+    <lastBuildDate>Sat, 28 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:54464/tags/example/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ep 3. Balancing LOLBINS without Breaking Ops</title>
+      <link>http://localhost:54464/posts/balancing-lolbins-with-operations/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:54464/posts/balancing-lolbins-with-operations/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
